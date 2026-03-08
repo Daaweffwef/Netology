@@ -13,5 +13,7 @@ https://github.com/Daaweffwef/Netology/network
 
 # Задание 1
 <img width="2549" height="1278" alt="image" src="https://github.com/user-attachments/assets/1155f21d-24fb-4fe2-b4b4-eb0485a46498" />
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+<img width="1013" height="256" alt="image" src="https://github.com/user-attachments/assets/e120de29-546c-4a41-8984-c7f5597748d1" />
 
 # Задание 2
