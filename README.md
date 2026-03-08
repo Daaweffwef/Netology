@@ -8,3 +8,10 @@ https://github.com/Daaweffwef/Netology/commit/86458f938fd192972d9dc87685cf6f08c3
 
 # Задание 3 
 https://github.com/Daaweffwef/Netology/network
+
+# Домашнее задание по занятию «GitLab» Мустафин Роман
+
+# Задание 1
+<img width="2549" height="1278" alt="image" src="https://github.com/user-attachments/assets/1155f21d-24fb-4fe2-b4b4-eb0485a46498" />
+
+# Задание 2
