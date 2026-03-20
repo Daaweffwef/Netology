@@ -47,6 +47,7 @@ systemctl enable zabbix-server zabbix-agent apache2
 <img width="1854" height="1080" alt="image" src="https://github.com/user-attachments/assets/d213061d-7951-4664-80a1-b980501e64f6" />
 
 #Список команд
+
 sudo -s
 
 apt update
