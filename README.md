@@ -40,3 +40,26 @@ systemctl restart zabbix-server zabbix-agent apache2
 
 systemctl enable zabbix-server zabbix-agent apache2
 
+#Задание 2
+<img width="1855" height="1085" alt="image" src="https://github.com/user-attachments/assets/be47589c-09a4-47da-9461-a67239581c14" />
+<img width="1335" height="1081" alt="image" src="https://github.com/user-attachments/assets/2e768bfd-3c70-4eb2-ada2-9cfda9cf5dbf" />
+<img width="1610" height="1073" alt="image" src="https://github.com/user-attachments/assets/978c6ccc-a9d8-4c8f-983c-d9ecd58bb22d" />
+<img width="1854" height="1080" alt="image" src="https://github.com/user-attachments/assets/d213061d-7951-4664-80a1-b980501e64f6" />
+
+#Список команд
+sudo -s
+
+apt update
+
+apt install zabbix-agent
+
+nano /etc/zabbix/zabbix_agentd.conf
+
+systemctl restart zabbix-agent
+systemctl enable zabbix-agent
+
+cat /var/log/zabbix/zabbix_agentd.log
+
+
+
+
