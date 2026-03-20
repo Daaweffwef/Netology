@@ -11,3 +11,32 @@ https://github.com/Daaweffwef/Netology/commit/b7864d7c97dacedcdaefcac6b5fd0f4176
 
 # Задание 1
 <img width="1281" height="861" alt="image" src="https://github.com/user-attachments/assets/50c7816d-45c5-4c59-83cd-fdb7317292e5" />
+<img width="944" height="822" alt="image" src="https://github.com/user-attachments/assets/e0b48fbe-fea4-42e2-8591-d7d2be8455bb" />
+<img width="1718" height="1167" alt="image" src="https://github.com/user-attachments/assets/87647f6e-da55-451b-a60e-c41a98da2bdf" />
+
+# Список команд
+
+sudo apt update
+
+sudo -s
+
+wget https://repo.zabbix.com/zabbix/7.0/ubuntu/pool/main/z/zabbix-release/zabbix-release_latest_7.0+ubuntu24.04_all.deb
+
+dpkg -i zabbix-release_latest_7.0+ubuntu24.04_all.deb
+
+apt update
+
+apt install zabbix-server-pgsql zabbix-frontend-php php8.3-pgsql zabbix-apache-conf zabbix-sql-scripts zabbix-agent
+
+sudo -u postgres createuser --pwprompt zabbix
+
+sudo -u postgres createdb -O zabbix zabbix           
+
+zcat /usr/share/zabbix-sql-scripts/postgresql/server.sql.gz | sudo -u zabbix psql zabbix              
+
+DBPassword=123456789
+
+systemctl restart zabbix-server zabbix-agent apache2
+
+systemctl enable zabbix-server zabbix-agent apache2
+
