@@ -1,6 +1,6 @@
 # Домашнее задание к занятию «Система мониторинга Zabbix. Часть 2» Роман Мустафин
 # Задание 1
-<img width="1984" height="1080" alt="image" src="https://github.com/user-attachments/assets/ae142cb0-c647-468b-8867-cc9f95068469" />
+<img width="2048" height="1156" alt="image" src="https://github.com/user-attachments/assets/40ccb75f-39fe-484c-b2a2-6671618f1d55" />
 <img width="1990" height="1041" alt="image" src="https://github.com/user-attachments/assets/fd2c5bc5-dad6-4ec7-a8c5-61710e500313" />
 # Задание 2 - 3
 <img width="1983" height="1039" alt="image" src="https://github.com/user-attachments/assets/d886e321-f90e-44ba-8fe0-6437784409ea" />
