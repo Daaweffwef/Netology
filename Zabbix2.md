@@ -4,7 +4,6 @@
 <img width="1985" height="1038" alt="image" src="https://github.com/user-attachments/assets/2427402c-a21a-406c-be7e-fd36733df6bc" />
 
 # Задание 2 - 3
-<img width="1985" height="1037" alt="image" src="https://github.com/user-attachments/assets/8bbd9b2a-ffa8-4b8a-b88e-dd2228a329e8" />
 <img width="1995" height="1038" alt="image" src="https://github.com/user-attachments/assets/1ff2db15-44e9-4de3-b006-fb933066a406" />
 привязал шаблон Task1 к двум хостам 
 
