@@ -8,7 +8,7 @@
 привязал шаблон Task1 к двум хостам 
 
 # Задание 4
-<img width="1985" height="1038" alt="image" src="https://github.com/user-attachments/assets/268456ae-2f7b-4abe-957c-3012a2362ad2" />
+<img width="1984" height="1033" alt="image" src="https://github.com/user-attachments/assets/ddac07a9-e2dd-4ee8-9257-3e08a65c2a5a" />
 
 изменил название шаблона на Задание4
 теперь везде должно быть правильно
